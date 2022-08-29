@@ -1,0 +1,85 @@
+#section2 {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  width: 100%;
+  background:  #f3f3f3;
+}
+
+#card_module {
+  background: rgb(88, 63, 251);
+  background: radial-gradient(
+    circle,
+    rgba(88, 63, 251, 1) 0%,
+    rgba(70, 86, 252, 1) 100%
+  );
+  color: #fff;
+}
+a:hover {
+  text-decoration: none;
+}
+
+.navigate-row{
+ 
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+ 
+}
+.token-div{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 10px;
+  margin: 0 13px;
+  padding: 10px 30px;
+  color: white;
+  background: crimson;
+  border-radius: 25px;
+  
+
+}
+.token-div h3{
+  font-size: 12px;
+}
+.farm-div{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 10px;
+  margin: 0 13px;
+  padding: 10px ;
+  padding: 10px 34px;
+  color: white;
+  background: crimson;
+  border-radius: 25px;
+  
+  
+}
+.farm-div h3{
+  font-size: 12px;
+}
+.account-div{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 10px;
+  margin: 0 13px;
+  padding: 10px ;
+  padding: 10px 16px;
+  color: white;
+  background: crimson;
+  border-radius: 25px;
+  
+}
+.account-div h3{
+  font-size: 12px;
+ 
+}
+@media screen and (max-width: 650px){
+  #section2{
+    position: fixed;
+        width: 100%;
+        top: 60px;
+        left: -100%;
+  }
+}

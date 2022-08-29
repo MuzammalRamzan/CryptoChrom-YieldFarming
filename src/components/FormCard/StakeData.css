@@ -1,0 +1,171 @@
+.stakeDataContainer{
+    margin: 10px;
+   
+}
+
+.stakeHeader {
+    display: flex;
+    flex-direction: row;
+}
+
+.stakeHeader img {
+    margin: 0px 5px 0px 0px;
+}
+
+.stakeHeader h2 {
+    margin: 0px 25px 0px 0px;
+    font-size: x-large;
+}
+
+.stakeDes {
+    color: rgb(88, 112, 219);
+    padding-top: 15px;
+}
+
+
+.stakeFooter {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    border: 1px solid black;
+    border-radius: 50px;
+    text-align: center;
+    justify-content: center;
+}
+
+.stakeFooter p {
+    margin-top: 14px;
+}
+
+.stakeFooter i {
+    margin: 15px 12px 0px 0px;
+}
+.my-first-div{
+    padding: 12px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.univ2-div{
+      
+      text-align: left;
+}
+ 
+ .stake-btn{
+     padding: 6px 10px;
+     color: #6c757d;
+     
+     border: none;
+     background-color: lightgrey;
+     border-radius: 5px;
+ }
+ .stake-btn:focus {
+    outline:none;
+}
+.icon-div{
+    padding: 5px 0;
+    height: 120px;
+    
+}
+#add-more-div button{
+    background: none;
+    border: none;
+    font-weight: 700;
+    color: darkblue;
+}
+#add-more-div{
+    text-align: right;
+    background: none;
+    font-weight: 700;
+    color: darkblue;
+    margin-right: 12px;
+}
+
+.your-pool-div{
+    text-align: left;
+    margin-top: 50px;
+    margin-left: 10px;
+    color: darkblue;
+    
+}
+
+ .third-div{
+    box-shadow: 2px 3px 3px 2.5px rgba(0, 0, 0, 0.20);
+     border-radius: 15px;
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+     padding: 12px;
+     padding-top: 15px;
+     padding-bottom: 15px;
+ }
+ .third-1-div{
+   text-align: left;
+ }
+ .third-1-div h5{
+     color: darkblue;
+ }
+ .third-1-div h4{
+    color: darkblue;
+}
+
+ .withdraw-btn{
+    padding: 6px 10px;
+    border: 1px solid darkblue;
+    background-color: transparent;
+    border-radius: 19px;
+    color: darkblue;
+    font-weight: 700;
+    box-sizing: border-box;
+ }
+ .withdraw-btn:focus {
+    outline:none;
+}
+ .forth-div{
+    box-shadow: 2px 3px 3px 2.5px rgba(0, 0, 0, 0.20);
+    border-radius: 15px;
+    margin-top: 30px;
+ }
+ .unclaim-p{
+     font-weight: 700;
+     padding-top: 10px;
+ }
+ .uncl-div{
+     display: flex;
+     flex-direction: row;
+     font-weight: 800;
+     color: darkblue;
+ }
+ .uncl-logo{
+     color: darkblue;
+ }
+ .uncl-logo p{
+     font-weight: 700;
+ }
+ .digit{
+     text-align: right;
+     font-weight: 700;
+ }
+ .unclaimed-div{
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     padding: 12px;
+    
+ }
+ .forth-div button{
+     width: 94%;
+     padding: 5px;
+     margin-bottom: 20px;
+    border: 1px solid lightgrey;
+    font-weight: 700;
+    color: rgb(185, 3, 185);
+    background: transparent;
+ }
+ .forth-div button:focus {
+    outline:none;
+}

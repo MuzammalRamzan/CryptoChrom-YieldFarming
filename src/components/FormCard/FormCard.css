@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.formContainer {
+   
+    background-color: white;
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.20);
+    border-radius: 10px;
+}
+
+  .formContainer{
+    width: 91%;
+    margin-top: 10px;
+  }
+  @media screen and (max-width:650px){
+    .formContainer{
+      margin-top: -40px;
+    }
+  }
+ 
+  @media screen and (min-width: 700px){
+    .formContainer{
+      width: 650px;
+    }
+  } 
+  
+.formContainer:hover{
+    cursor: pointer;
+}

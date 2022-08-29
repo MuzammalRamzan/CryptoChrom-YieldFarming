@@ -1,0 +1,7 @@
+.fa_logos {
+    color: rgb(199, 198, 198);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-bottom: 10px;
+}

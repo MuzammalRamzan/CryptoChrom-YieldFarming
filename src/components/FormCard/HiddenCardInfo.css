@@ -1,0 +1,263 @@
+/* first div */
+.percentageDiv {
+    display: flex;
+}
+
+.arrowLogo i {
+    color: lightgray;
+    margin-top: 40px;
+    font-size: 25px;
+}
+
+.arrowLogoDetail {
+    margin-left: 20px;
+}
+
+.arrowLogoDetail p {
+    color: grey;
+    font-size: 12px;
+    transform: translateY(6px);
+}
+
+.arrowLogoDetail h2 {
+    font-size: x-large;
+    font-weight: 600;
+}
+
+/* second div */
+.dollarDiv {
+    display: flex;
+}
+
+.tintLogo i {
+    color: lightgray;
+    margin-top: 40px;
+    font-size: 25px;
+}
+
+.tintLogoDetail {
+    margin-left: 20px;
+}
+
+.tintLogoDetail p {
+    color: grey;
+    font-size: 12px;
+    transform: translateY(6px);
+}
+
+.tintLogoDetail h2 {
+    font-size: x-large;
+    font-style: bold;
+    font-weight: 600;
+}
+
+/* third div */
+.blockRewardDiv {
+display: flex;
+   width: 26px;
+}
+
+.cubeLogo i {
+    color: lightgray;
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+.cubeLogoDetail {
+    margin-left: 20px;
+}
+
+.cubeLogoDetail p {
+    color: grey;
+    font-size: 12px;
+    transform: translateY(6px);
+}
+
+.cubeLogoDetail h2 {
+    
+    font-size: x-large;
+    font-style: bold;
+    font-weight: 600;
+    text-overflow: ellipsis;
+    overflow: hidden; 
+    width: 90px; 
+    height: 1.2em; 
+   
+   
+}
+
+.cubeLogoDetail div{
+    display: flex;
+    flex-direction: row;
+}
+.cubeLogoDetail div .uncl{
+    font-weight: bold;
+    font-size: 25px;
+}
+
+/* fourth div */
+.startBlockDiv {
+    display: flex;
+}
+    
+.toggleOffLogo i {
+    color: lightgray;
+    margin-top: 20px;
+    font-size: 25px;
+}
+    
+.toggleOffLogoDetail {
+    margin-left: 20px;
+}
+    
+.toggleOffLogoDetail p {
+    color: grey;
+    font-size: 12px;
+    transform: translateY(6px);
+}
+    
+.toggleOffLogoDetail h2 {
+    font-size: x-large;
+    font-style: bold;
+    font-weight: 600;
+}
+
+/* fifth div */
+.bonusMultiplierDiv {
+    display: flex;
+}
+
+.toggleOnLogo i {
+    color: lightgray;
+    margin-top: 50px;
+    font-size: 25px;
+}
+
+.toggleOnLogoDetail {
+    margin-left: 20px;
+}
+
+.sameP2 {
+    color: grey;
+    font-size: 12px;
+    transform: translateY(6px);
+}
+
+.sameP {
+    font-size: 16px;
+    transform: translateY(6px);
+}
+
+.toggleOnLogoDetail h2 {
+    font-size: x-large;
+    font-style: bold;
+    font-weight: 600;
+}
+
+/* sixth div */
+.endBlockDiv {
+    display: flex;
+}
+    
+.toggleOff2Logo i {
+    color: lightgray;
+    margin-top: 20px;
+    font-size: 25px;
+}
+    
+.toggleOff2LogoDetail {
+    margin-left: 20px;
+}
+    
+.toggleOff2LogoDetail p {
+    color: grey;
+    font-size: 12px;
+    transform: translateY(6px);
+}
+    
+.toggleOff2LogoDetail h2 {
+    font-size: x-large;
+    font-style: bold;
+    font-weight: 600;
+}
+
+/* seventh div */
+.amountVaultDiv {
+    display: flex;
+}
+    
+.shieldLogo i {
+    color: lightgray;
+    margin-top: 20px;
+    font-size: 25px;
+}
+    
+.shieldLogoDetail {
+    margin-left: 20px;
+}
+    
+.shieldLogoDetail p {
+    color: grey;
+    font-size: 12px;
+    transform: translateY(6px);
+}
+    
+.shieldLogoDetail h2 {
+    font-size: x-large;
+    font-style: bold;
+    font-weight: 600;
+}
+
+/* eightth div */
+.numberFarmerDiv {
+    display: flex;
+}
+    
+.userLogo i {
+    color: lightgray;
+    margin-top: 20px;
+    font-size: 25px;
+}
+    
+.userLogoDetail {
+    margin-left: 20px;
+}
+    
+.userLogoDetail p {
+    color: grey;
+    font-size: 12px;
+    transform: translateY(6px);
+}
+    
+.userLogoDetail h2 {
+    font-size: x-large;
+    font-style: bold;
+    font-weight: 600;
+}
+
+/* nineth div */
+.pendingRewardDiv {
+    display: flex;
+}
+    
+.arrowDownLogo i {
+    color: lightgray;
+    margin-top: 20px;
+    font-size: 25px;
+}
+    
+.arrowDownLogoDetail {
+    margin-left: 20px;
+}
+    
+.arrowDownLogoDetail p {
+    color: grey;
+    font-size: 12px;
+    transform: translateY(6px);
+}
+    
+.arrowDownLogoDetail h2 {
+    font-size: x-large;
+    font-style: bold;
+    font-weight: 600;
+}

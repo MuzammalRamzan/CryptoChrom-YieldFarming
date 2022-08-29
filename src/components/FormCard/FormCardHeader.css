@@ -1,0 +1,18 @@
+.cardHeaderContainer {
+    display: flex;
+}
+
+.headerLogo {
+    margin: 17px 5px 5px 15px;
+}
+
+.titleSubtitle h2 {
+    font-size: 24px;
+    margin: 15px 5px 5px 5px;
+}
+
+.titleSubtitle p {
+    font-size: 12px;
+    margin: 2px 5px 5px 5px;
+    color: rgb(199, 198, 198);
+}

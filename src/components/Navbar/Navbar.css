@@ -1,0 +1,32 @@
+#nav1 {
+  background: rgb(12, 15, 42);
+  background: linear-gradient(
+    90deg,
+    rgba(212, 41, 230, 1) 0%,
+	 rgba(212, 41, 230, 1) 50%,
+    rgba(212, 41, 230, 1) 100%
+  );
+ 
+  box-shadow: 0.2px 2px 4px rgba(0,0,0,0.6);
+  
+}
+@media screen and (max-width:600px){
+    
+  #nav1 {
+    position: fixed;
+     z-index: 1;
+    width: 100%;
+  }
+}
+
+#connect-div{
+  
+   display: flex;
+   flex-direction: row;
+   justify-content: flex-end;
+   width: 100%;
+   margin-left: -7px;
+}
+.con-btn{
+  margin-right: 10px;
+}
